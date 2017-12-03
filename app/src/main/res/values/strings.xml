@@ -2,4 +2,7 @@
     <string name="app_name">Customers</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="btnGetCustomers">Get Customers</string>
+    <string name="title_customer_list">Customers</string>
+    <string name="title_customer_detail">Customer Detail</string>
 </resources>
